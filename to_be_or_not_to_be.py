@@ -1,3 +1,4 @@
+print "press a key"
 import sys
 
 while True:
